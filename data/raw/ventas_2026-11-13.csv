@@ -1,0 +1,67 @@
+order_id,fecha,sucursal,producto,categoria,cantidad,precio_unitario
+20261113-0000,2026-11-13,Palermo,Tostado,Comidas,1,4200
+20261113-0001,2026-11-13,San Isidro,Tostado,Comidas,2,4200
+20261113-0002,2026-11-13,Caballito,Café,Bebidas,3,2500
+20261113-0003,2026-11-13,Caballito,Ensalada,Comidas,4,6500
+20261113-0004,2026-11-13,San Isidro,Jugo,Bebidas,1,3100
+20261113-0005,2026-11-13,Belgrano,Medialuna,Panadería,2,900
+20261113-0006,2026-11-13,San Isidro,Café,Bebidas,1,2500
+20261113-0007,2026-11-13,Belgrano,Medialuna,Panadería,3,900
+20261113-0008,2026-11-13,Belgrano,Tostado,Comidas,3,4200
+20261113-0009,2026-11-13,San Isidro,Medialuna,Panadería,4,900
+20261113-0010,2026-11-13,Belgrano,Tostado,Comidas,1,4200
+20261113-0011,2026-11-13,Quilmes,Medialuna,Panadería,1,900
+20261113-0012,2026-11-13,San Isidro,Medialuna,Panadería,,900
+20261113-0013,2026-11-13,Quilmes,Jugo,Bebidas,3,3100
+20261113-0014,2026-11-13,Palermo,Medialuna,Panadería,2,900
+20261113-0015,2026-11-13,Quilmes,Medialuna,Panadería,3,900
+20261113-0016,2026-11-13,Caballito,Tostado,Comidas,3,4200
+20261113-0016,2026-11-13,Caballito,Tostado,Comidas,3,4200
+20261113-0017,2026-11-13,Caballito,Café,Bebidas,2,2500
+20261113-0018,2026-11-13,Caballito,Ensalada,Comidas,1,6500
+20261113-0019,2026-11-13,Palermo,Café,Bebidas,2,2500
+20261113-0020,2026-11-13,Palermo,Jugo,Bebidas,3,3100
+20261113-0021,2026-11-13, BELGRANO ,Tostado,Comidas,2,4200
+20261113-0022,2026-11-13,Palermo,Medialuna,Panadería,3,900
+20261113-0023,2026-11-13,San Isidro,Café,Bebidas,2,2500
+20261113-0024,2026-11-13,Quilmes,Medialuna,Panadería,4,900
+20261113-0025,2026-11-13,Quilmes,Budín,Panadería,1,3800
+20261113-0026,2026-11-13,Palermo,Jugo,Bebidas,3,3100
+20261113-0027,2026-11-13,Quilmes,Tostado,Comidas,3,4200
+20261113-0028,2026-11-13,Caballito,Medialuna,Panadería,4,900
+20261113-0029,2026-11-13,Palermo,Ensalada,Comidas,3,6500
+20261113-0030,2026-11-13,Belgrano,Ensalada,Comidas,2,6500
+20261113-0031,2026-11-13,Quilmes,Tostado,Comidas,4,4200
+20261113-0032,2026-11-13,Quilmes,Jugo,Bebidas,,3100
+20261113-0033,2026-11-13,Belgrano,Ensalada,Comidas,4,6500
+20261113-0034,2026-11-13,Palermo,Ensalada,Comidas,1,6500
+20261113-0035,2026-11-13,Belgrano,Jugo,Bebidas,2,3100
+20261113-0036,2026-11-13,Belgrano,Medialuna,Panadería,3,900
+20261113-0037,2026-11-13,San Isidro,Tostado,Comidas,2,4200
+20261113-0038,2026-11-13,Palermo,Tostado,Comidas,4,4200
+20261113-0039,2026-11-13,Caballito,Café,Bebidas,4,2500
+20261113-0040,2026-11-13, QUILMES ,Ensalada,Comidas,1,6500
+20261113-0040,2026-11-13, QUILMES ,Ensalada,Comidas,1,6500
+20261113-0041,2026-11-13,Quilmes,Jugo,Bebidas,3,3100
+20261113-0042,2026-11-13,San Isidro,Tostado,Comidas,4,4200
+20261113-0043,2026-11-13,Palermo,Medialuna,Panadería,2,900
+20261113-0044,2026-11-13,San Isidro,Tostado,Comidas,4,4200
+20261113-0045,2026-11-13,San Isidro,Café,Bebidas,1,2500
+20261113-0046,2026-11-13,Belgrano,Tostado,Comidas,4,4200
+20261113-0047,2026-11-13,San Isidro,Café,Bebidas,3,2500
+20261113-0048,2026-11-13,Belgrano,Ensalada,Comidas,2,6500
+20261113-0049,2026-11-13,Caballito,Budín,Panadería,2,3800
+20261113-0050,2026-11-13,Caballito,Budín,Panadería,3,3800
+20261113-0051,2026-11-13,San Isidro,Tostado,Comidas,1,4200
+20261113-0052,2026-11-13,Quilmes,Tostado,Comidas,4,4200
+20261113-0053,2026-11-13,Palermo,Ensalada,Comidas,,6500
+20261113-0054,2026-11-13,Belgrano,Tostado,Comidas,3,4200
+20261113-0055,2026-11-13,Belgrano,Tostado,Comidas,4,4200
+20261113-0056,2026-11-13,Caballito,Tostado,Comidas,1,4200
+20261113-0057,2026-11-13,Belgrano,Tostado,Comidas,2,4200
+20261113-0058,2026-11-13, SAN ISIDRO ,Jugo,Bebidas,1,3100
+20261113-0059,2026-11-13,Quilmes,Medialuna,Panadería,4,900
+20261113-0060,2026-11-13,Palermo,Medialuna,Panadería,3,900
+20261113-0061,2026-11-13,Quilmes,Tostado,Comidas,1,4200
+20261113-0062,2026-11-13,Belgrano,Jugo,Bebidas,2,3100
+20261113-0063,2026-11-13,Palermo,Budín,Panadería,2,3800

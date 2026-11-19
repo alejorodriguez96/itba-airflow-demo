@@ -1,0 +1,71 @@
+order_id,fecha,sucursal,producto,categoria,cantidad,precio_unitario
+20261117-0000,2026-11-17,Belgrano,Medialuna,Panadería,2,900
+20261117-0001,2026-11-17,Caballito,Ensalada,Comidas,3,6500
+20261117-0002,2026-11-17,Belgrano,Tostado,Comidas,2,4200
+20261117-0003,2026-11-17,Quilmes,Café,Bebidas,2,2500
+20261117-0004,2026-11-17,Quilmes,Medialuna,Panadería,4,900
+20261117-0005,2026-11-17,Palermo,Medialuna,Panadería,4,900
+20261117-0006,2026-11-17,San Isidro,Tostado,Comidas,2,4200
+20261117-0007,2026-11-17,San Isidro,Jugo,Bebidas,1,3100
+20261117-0007,2026-11-17,San Isidro,Jugo,Bebidas,1,3100
+20261117-0008,2026-11-17,Palermo,Jugo,Bebidas,2,3100
+20261117-0009,2026-11-17,Quilmes,Jugo,Bebidas,2,3100
+20261117-0010,2026-11-17,San Isidro,Ensalada,Comidas,1,6500
+20261117-0011,2026-11-17,Belgrano,Tostado,Comidas,2,4200
+20261117-0012,2026-11-17,Palermo,Jugo,Bebidas,3,3100
+20261117-0013,2026-11-17,Caballito,Medialuna,Panadería,4,900
+20261117-0014,2026-11-17,Belgrano,Medialuna,Panadería,3,900
+20261117-0015,2026-11-17,Caballito,Budín,Panadería,1,3800
+20261117-0016,2026-11-17,San Isidro,Ensalada,Comidas,2,6500
+20261117-0017,2026-11-17,Quilmes,Ensalada,Comidas,3,6500
+20261117-0018,2026-11-17,Caballito,Medialuna,Panadería,4,900
+20261117-0019,2026-11-17,Belgrano,Tostado,Comidas,4,4200
+20261117-0020,2026-11-17,Belgrano,Café,Bebidas,2,2500
+20261117-0021,2026-11-17,San Isidro,Budín,Panadería,3,3800
+20261117-0022,2026-11-17,San Isidro,Tostado,Comidas,4,4200
+20261117-0023,2026-11-17,Caballito,Budín,Panadería,2,3800
+20261117-0024,2026-11-17,Palermo,Medialuna,Panadería,2,900
+20261117-0025,2026-11-17,Belgrano,Ensalada,Comidas,4,6500
+20261117-0026,2026-11-17,San Isidro,Medialuna,Panadería,4,900
+20261117-0027,2026-11-17,Quilmes,Café,Bebidas,3,2500
+20261117-0028,2026-11-17,Palermo,Tostado,Comidas,4,4200
+20261117-0029,2026-11-17,Belgrano,Medialuna,Panadería,4,900
+20261117-0030,2026-11-17,Quilmes,Medialuna,Panadería,2,900
+20261117-0031,2026-11-17,Belgrano,Café,Bebidas,1,2500
+20261117-0032,2026-11-17,Palermo,Ensalada,Comidas,1,6500
+20261117-0033,2026-11-17,Quilmes,Ensalada,Comidas,2,6500
+20261117-0034,2026-11-17,Quilmes,Medialuna,Panadería,1,900
+20261117-0035,2026-11-17,Belgrano,Budín,Panadería,2,3800
+20261117-0036,2026-11-17,Palermo,Jugo,Bebidas,1,3100
+20261117-0037,2026-11-17,Quilmes,Tostado,Comidas,4,4200
+20261117-0038,2026-11-17,Palermo,Café,Bebidas,2,2500
+20261117-0039,2026-11-17,Belgrano,Café,Bebidas,3,2500
+20261117-0040,2026-11-17,Palermo,Jugo,Bebidas,2,3100
+20261117-0041,2026-11-17,San Isidro,Medialuna,Panadería,1,900
+20261117-0042,2026-11-17,Palermo,Ensalada,Comidas,3,6500
+20261117-0043,2026-11-17,Quilmes,Café,Bebidas,2,2500
+20261117-0044,2026-11-17,Quilmes,Jugo,Bebidas,2,3100
+20261117-0045,2026-11-17,Palermo,Ensalada,Comidas,4,6500
+20261117-0046,2026-11-17,Quilmes,Medialuna,Panadería,1,900
+20261117-0047,2026-11-17,Caballito,Tostado,Comidas,3,4200
+20261117-0048,2026-11-17,Palermo,Café,Bebidas,1,2500
+20261117-0049,2026-11-17,San Isidro,Café,Bebidas,1,2500
+20261117-0050,2026-11-17,Quilmes,Budín,Panadería,4,3800
+20261117-0051,2026-11-17,Quilmes,Medialuna,Panadería,1,900
+20261117-0052,2026-11-17,Belgrano,Tostado,Comidas,2,4200
+20261117-0053,2026-11-17,San Isidro,Ensalada,Comidas,2,6500
+20261117-0054,2026-11-17,Belgrano,Tostado,Comidas,1,4200
+20261117-0055,2026-11-17,Quilmes,Tostado,Comidas,1,4200
+20261117-0056,2026-11-17,Belgrano,Medialuna,Panadería,2,900
+20261117-0057,2026-11-17,San Isidro,Medialuna,Panadería,1,900
+20261117-0058,2026-11-17,Belgrano,Café,Bebidas,3,2500
+20261117-0059,2026-11-17, BELGRANO ,Medialuna,Panadería,3,900
+20261117-0060,2026-11-17,Quilmes,Tostado,Comidas,2,4200
+20261117-0061,2026-11-17, BELGRANO ,Medialuna,Panadería,3,900
+20261117-0062,2026-11-17,Caballito,Medialuna,Panadería,4,900
+20261117-0062,2026-11-17,Caballito,Medialuna,Panadería,4,900
+20261117-0063,2026-11-17,Palermo,Ensalada,Comidas,1,6500
+20261117-0064,2026-11-17,Quilmes,Tostado,Comidas,1,4200
+20261117-0065,2026-11-17,Quilmes,Tostado,Comidas,3,4200
+20261117-0066,2026-11-17,San Isidro,Café,Bebidas,4,2500
+20261117-0067,2026-11-17,San Isidro,Budín,Panadería,1,3800

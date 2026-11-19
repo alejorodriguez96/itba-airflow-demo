@@ -1,0 +1,122 @@
+order_id,fecha,sucursal,producto,categoria,cantidad,precio_unitario
+20261101-0000,2026-11-01,Caballito,Tostado,Comidas,1,4200
+20261101-0001,2026-11-01,San Isidro,Jugo,Bebidas,2,3100
+20261101-0002,2026-11-01,Palermo,Budín,Panadería,3,3800
+20261101-0003,2026-11-01,Caballito,Ensalada,Comidas,1,6500
+20261101-0004,2026-11-01,San Isidro,Medialuna,Panadería,1,900
+20261101-0005,2026-11-01,San Isidro,Medialuna,Panadería,1,900
+20261101-0006,2026-11-01, SAN ISIDRO ,Medialuna,Panadería,4,900
+20261101-0007,2026-11-01,San Isidro,Ensalada,Comidas,1,6500
+20261101-0008,2026-11-01,Belgrano,Ensalada,Comidas,1,6500
+20261101-0009,2026-11-01,Palermo,Ensalada,Comidas,2,6500
+20261101-0010,2026-11-01,Quilmes,Budín,Panadería,4,3800
+20261101-0011,2026-11-01,Caballito,Medialuna,Panadería,2,900
+20261101-0012,2026-11-01,Caballito,Café,Bebidas,4,2500
+20261101-0013,2026-11-01,Palermo,Café,Bebidas,2,2500
+20261101-0014,2026-11-01,Caballito,Café,Bebidas,2,2500
+20261101-0015,2026-11-01,San Isidro,Café,Bebidas,2,2500
+20261101-0016,2026-11-01,Belgrano,Medialuna,Panadería,4,900
+20261101-0017,2026-11-01,Quilmes,Jugo,Bebidas,2,3100
+20261101-0018,2026-11-01,Palermo,Budín,Panadería,1,3800
+20261101-0019,2026-11-01,Caballito,Medialuna,Panadería,2,900
+20261101-0020,2026-11-01,Caballito,Café,Bebidas,3,2500
+20261101-0021,2026-11-01,Caballito,Jugo,Bebidas,3,3100
+20261101-0022,2026-11-01,Quilmes,Budín,Panadería,3,3800
+20261101-0023,2026-11-01,Quilmes,Café,Bebidas,3,2500
+20261101-0024,2026-11-01,Quilmes,Ensalada,Comidas,1,6500
+20261101-0025,2026-11-01,Palermo,Café,Bebidas,3,2500
+20261101-0026,2026-11-01,San Isidro,Tostado,Comidas,1,4200
+20261101-0027,2026-11-01,Quilmes,Tostado,Comidas,2,4200
+20261101-0028,2026-11-01,Quilmes,Ensalada,Comidas,3,6500
+20261101-0029,2026-11-01,Palermo,Café,Bebidas,3,2500
+20261101-0030,2026-11-01,Belgrano,Café,Bebidas,4,2500
+20261101-0031,2026-11-01,Palermo,Medialuna,Panadería,3,900
+20261101-0032,2026-11-01,Belgrano,Jugo,Bebidas,4,3100
+20261101-0033,2026-11-01,San Isidro,Ensalada,Comidas,1,6500
+20261101-0034,2026-11-01,Quilmes,Ensalada,Comidas,2,6500
+20261101-0035,2026-11-01,San Isidro,Budín,Panadería,2,3800
+20261101-0036,2026-11-01,Caballito,Café,Bebidas,3,2500
+20261101-0037,2026-11-01,Quilmes,Budín,Panadería,3,3800
+20261101-0038,2026-11-01,Palermo,Budín,Panadería,1,3800
+20261101-0039,2026-11-01,Caballito,Café,Bebidas,1,2500
+20261101-0040,2026-11-01,Belgrano,Medialuna,Panadería,2,900
+20261101-0041,2026-11-01,San Isidro,Café,Bebidas,1,2500
+20261101-0042,2026-11-01,Palermo,Budín,Panadería,4,3800
+20261101-0043,2026-11-01,Caballito,Café,Bebidas,2,2500
+20261101-0044,2026-11-01,Belgrano,Medialuna,Panadería,4,900
+20261101-0045,2026-11-01,Quilmes,Tostado,Comidas,1,4200
+20261101-0046,2026-11-01,Caballito,Café,Bebidas,3,2500
+20261101-0047,2026-11-01, BELGRANO ,Budín,Panadería,1,3800
+20261101-0048,2026-11-01,Belgrano,Jugo,Bebidas,3,3100
+20261101-0049,2026-11-01,Quilmes,Tostado,Comidas,2,4200
+20261101-0050,2026-11-01,Quilmes,Jugo,Bebidas,3,3100
+20261101-0051,2026-11-01,Belgrano,Medialuna,Panadería,2,900
+20261101-0052,2026-11-01,Quilmes,Jugo,Bebidas,1,3100
+20261101-0053,2026-11-01,Belgrano,Tostado,Comidas,3,4200
+20261101-0054,2026-11-01,Caballito,Tostado,Comidas,1,4200
+20261101-0055,2026-11-01,Quilmes,Medialuna,Panadería,2,900
+20261101-0056,2026-11-01,Quilmes,Café,Bebidas,1,2500
+20261101-0057,2026-11-01,Belgrano,Medialuna,Panadería,4,900
+20261101-0058,2026-11-01,Belgrano,Tostado,Comidas,1,4200
+20261101-0059,2026-11-01, PALERMO ,Budín,Panadería,4,3800
+20261101-0060,2026-11-01,Quilmes,Jugo,Bebidas,4,3100
+20261101-0061,2026-11-01,Palermo,Budín,Panadería,4,3800
+20261101-0062,2026-11-01,Palermo,Ensalada,Comidas,3,6500
+20261101-0063,2026-11-01,Quilmes,Tostado,Comidas,4,4200
+20261101-0064,2026-11-01,Palermo,Budín,Panadería,3,3800
+20261101-0065,2026-11-01,Palermo,Ensalada,Comidas,4,6500
+20261101-0066,2026-11-01,Quilmes,Ensalada,Comidas,2,6500
+20261101-0067,2026-11-01,Belgrano,Tostado,Comidas,1,4200
+20261101-0068,2026-11-01,Quilmes,Tostado,Comidas,3,4200
+20261101-0069,2026-11-01,Quilmes,Café,Bebidas,1,2500
+20261101-0070,2026-11-01,Quilmes,Ensalada,Comidas,2,6500
+20261101-0071,2026-11-01,San Isidro,Medialuna,Panadería,1,900
+20261101-0072,2026-11-01,San Isidro,Medialuna,Panadería,2,900
+20261101-0072,2026-11-01,San Isidro,Medialuna,Panadería,2,900
+20261101-0073,2026-11-01,San Isidro,Tostado,Comidas,2,4200
+20261101-0074,2026-11-01,Quilmes,Medialuna,Panadería,2,900
+20261101-0075,2026-11-01,Caballito,Jugo,Bebidas,4,3100
+20261101-0076,2026-11-01,Palermo,Budín,Panadería,2,3800
+20261101-0077,2026-11-01,Belgrano,Ensalada,Comidas,2,6500
+20261101-0078,2026-11-01,San Isidro,Medialuna,Panadería,3,900
+20261101-0079,2026-11-01,San Isidro,Budín,Panadería,4,3800
+20261101-0079,2026-11-01,San Isidro,Budín,Panadería,4,3800
+20261101-0080,2026-11-01,Palermo,Tostado,Comidas,4,4200
+20261101-0081,2026-11-01,Quilmes,Budín,Panadería,,3800
+20261101-0082,2026-11-01,Palermo,Café,Bebidas,4,2500
+20261101-0083,2026-11-01,Palermo,Ensalada,Comidas,3,6500
+20261101-0084,2026-11-01,Belgrano,Budín,Panadería,4,3800
+20261101-0085,2026-11-01,Quilmes,Ensalada,Comidas,4,6500
+20261101-0086,2026-11-01,Quilmes,Ensalada,Comidas,3,6500
+20261101-0087,2026-11-01,Quilmes,Medialuna,Panadería,3,900
+20261101-0088,2026-11-01,San Isidro,Café,Bebidas,4,2500
+20261101-0089,2026-11-01,Palermo,Budín,Panadería,2,3800
+20261101-0090,2026-11-01,Quilmes,Jugo,Bebidas,2,3100
+20261101-0091,2026-11-01,Caballito,Tostado,Comidas,4,4200
+20261101-0092,2026-11-01,Palermo,Jugo,Bebidas,1,3100
+20261101-0093,2026-11-01,San Isidro,Medialuna,Panadería,1,900
+20261101-0094,2026-11-01,Caballito,Budín,Panadería,3,3800
+20261101-0095,2026-11-01,Palermo,Café,Bebidas,3,2500
+20261101-0096,2026-11-01,Quilmes,Café,Bebidas,4,2500
+20261101-0097,2026-11-01,Belgrano,Café,Bebidas,4,2500
+20261101-0098,2026-11-01,Caballito,Budín,Panadería,2,3800
+20261101-0099,2026-11-01,Caballito,Jugo,Bebidas,1,3100
+20261101-0100,2026-11-01,San Isidro,Tostado,Comidas,3,4200
+20261101-0101,2026-11-01,Belgrano,Medialuna,Panadería,3,900
+20261101-0102,2026-11-01,Quilmes,Medialuna,Panadería,4,900
+20261101-0103,2026-11-01,Belgrano,Jugo,Bebidas,1,3100
+20261101-0104,2026-11-01,Quilmes,Tostado,Comidas,2,4200
+20261101-0105,2026-11-01,San Isidro,Café,Bebidas,1,2500
+20261101-0106,2026-11-01,Belgrano,Medialuna,Panadería,3,900
+20261101-0107,2026-11-01,San Isidro,Ensalada,Comidas,3,6500
+20261101-0108,2026-11-01,Belgrano,Ensalada,Comidas,3,6500
+20261101-0109,2026-11-01,Quilmes,Café,Bebidas,,2500
+20261101-0110,2026-11-01,San Isidro,Budín,Panadería,1,3800
+20261101-0111,2026-11-01,San Isidro,Ensalada,Comidas,1,6500
+20261101-0112,2026-11-01,Caballito,Medialuna,Panadería,1,900
+20261101-0113,2026-11-01,Quilmes,Café,Bebidas,2,2500
+20261101-0114,2026-11-01,Belgrano,Jugo,Bebidas,3,3100
+20261101-0115,2026-11-01,Belgrano,Jugo,Bebidas,2,3100
+20261101-0116,2026-11-01,Belgrano,Ensalada,Comidas,2,6500
+20261101-0117,2026-11-01,Caballito,Tostado,Comidas,2,4200
+20261101-0118,2026-11-01,Caballito,Ensalada,Comidas,4,6500
